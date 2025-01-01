@@ -1,0 +1,15 @@
+{
+  "name": "k-monitor",
+  "version": "1.0.0",
+  "description": "System input monitor",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node examples/basic.js"
+  },
+  "keywords": ["monitor", "system", "input"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
